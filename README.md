@@ -172,4 +172,7 @@ For technical support or feature requests, please refer to the project documenta
 
 ---
 
+
 **⚠️ Safety Notice**: This system is designed for educational and demonstration purposes. Always follow proper railway safety protocols and regulations in real-world applications. 
+
+https://shubhangiathakare.github.io/AI-Based-Object-Recognition-and-Autonomous-Control-for-Smart-Locomotives./
