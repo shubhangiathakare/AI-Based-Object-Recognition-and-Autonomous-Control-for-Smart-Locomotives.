@@ -2,7 +2,7 @@
 
 An intelligent railway automation system that combines computer vision, obstacle detection, and line following capabilities for enhanced railway safety and efficiency.
 
-## 🎯 Current Features 
+## 🎯 Current Features  
 
 ### ✅ Implemented Features
 1. **Obstacle Detection**: Real-time detection of objects on railway tracks using YOLOv8
@@ -176,5 +176,6 @@ For technical support or feature requests, please refer to the project documenta
 **⚠️ Safety Notice**: This system is designed for educational and demonstration purposes. Always follow proper railway safety protocols and regulations in real-world applications. 
 
 https://shubhangiathakare.github.io/AI-Based-Object-Recognition-and-Autonomous-Control-for-Smart-Locomotives./
+
 
 
