@@ -7,7 +7,7 @@ An intelligent railway automation system that combines computer vision, obstacle
 ### ✅ Implemented Features
 1. **Obstacle Detection**: Real-time detection of objects on railway tracks using YOLOv8
 2. **Line Following**: Automatic railway line detection and direction control
-3. **Buzzer System**: Automatic buzzer activation after 30 seconds of obstacle detection 
+3. **Buzzer System**: Automatic buzzer activation after 30 seconds of obstacle detection  
 4. **Distance Estimation**: Smart distance calculation based on object size 
 5. **Emergency Stop**: Automatic railway stop when obstacles are within 2 feet
 6. **Weather Detection**: Automatic weather condition analysis
@@ -176,6 +176,7 @@ For technical support or feature requests, please refer to the project documenta
 **⚠️ Safety Notice**: This system is designed for educational and demonstration purposes. Always follow proper railway safety protocols and regulations in real-world applications. 
 
 https://shubhangiathakare.github.io/AI-Based-Object-Recognition-and-Autonomous-Control-for-Smart-Locomotives./
+
 
 
 
